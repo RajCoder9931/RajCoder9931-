@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Featured Projects  
-- [Job Board Platform](https://github.com/RajCoder9931/Job-Board-Main) – Full stack job portal with multiple roles.  
+- [Job Board Platform](https://github.com/RajCoder9931/Final-Job-Board-Project) – Full stack job portal with multiple roles.  
 - [Grocery App](https://github.com/RajCoder9931/Grocery-App-Argosmob) – Grocery app with TypeScript.  
 - [Portfolio Website](https://ravirajtiwari.vercel.app) – My portfolio to showcase projects.  
 
@@ -50,7 +50,7 @@
 
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [ravirajtiwari.vercel.app](https://ravirajtiwari.vercel.app)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ravi-raj-tiwari-7770a724b/)  
 - 🐙 GitHub: [RajCoder9931](https://github.com/RajCoder9931)  
 
 ---
