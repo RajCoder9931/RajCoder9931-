@@ -5,7 +5,7 @@
 🔭 Currently working on: Job Board Platform & Grocery App  
 🌱 Learning: Next.js & Cloud Deployment (Vercel / AWS)  
 💬 Ask me about: Full Stack Development, APIs, and UI/UX Design  
-📫 How to reach me: [Portfolio](https://ravirajtiwari.vercel.app) | [LinkedIn](https://linkedin.com/in/your-link)  
+📫 How to reach me: [Portfolio](https://ravirajtiwari.vercel.app) | [LinkedIn](https://www.linkedin.com/in/ravi-raj-tiwari-7770a724b/)  
 
 ---
 
