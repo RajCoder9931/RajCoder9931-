@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Ravi Raj Tiwari</h1>  
 
 <p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/astronaut-6331875-5227292.png" width="120px" alt="Astronaut Avatar" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="120px" alt="Astronaut Avatar" />
 </p>
+
 
 <p align="center">
 🚀 Full Stack Developer | 💻 React | Node.js | JavaScript | PHP  
